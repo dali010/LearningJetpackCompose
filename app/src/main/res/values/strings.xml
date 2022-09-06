@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">jetpackCompose</string>
+    <string name="title_activity_image_card">ImageCardActivity</string>
+    <string name="title_activity_styling_text">StylingTextActivity</string>
+    <string name="title_activity_state">State</string>
+    <string name="title_activity_text_field_button_snackbar">TextFieldButtonSnackbar</string>
+    <string name="title_activity_lists">Lists</string>
+    <string name="title_activity_constraint_layout">ConstraintLayout</string>
+    <string name="title_activity_effect_handler">EffectHandler</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_animation">Animation</string>
+    <string name="title_activity_animated_circular_progress_bar">AnimatedCircularProgressBar
+    </string>
+    <string name="title_activity_meditation_ui">MeditationUI</string>
+    <string name="title_activity_meditation">Meditation</string>
+    <string name="title_activity_animated_drop_down">AnimatedDropDown</string>
+    <string name="title_activity_instagram_app">InstagramApp</string>
+</resources>

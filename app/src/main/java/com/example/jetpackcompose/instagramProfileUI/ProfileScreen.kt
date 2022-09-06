@@ -479,7 +479,7 @@ fun PostSection(
                     .aspectRatio(1f)
                     .border(
                         width = 1.dp,
-                        color = Color.White
+                        color = Color.LightGray
                     )
             )
         }

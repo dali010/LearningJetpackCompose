@@ -16,4 +16,5 @@
     <string name="title_activity_animated_drop_down">AnimatedDropDown</string>
     <string name="title_activity_instagram_app">InstagramApp</string>
     <string name="title_activity_navigation">Navigation</string>
+    <string name="title_activity_animated_splash_screen">AnimatedSplashScreen</string>
 </resources>

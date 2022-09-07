@@ -18,4 +18,5 @@
     <string name="title_activity_navigation">Navigation</string>
     <string name="title_activity_bottom_nav_with_badges">BottomNavWithBadges</string>
     <string name="title_activity_animated_splash_screen">AnimatedSplashScreen</string>
+    <string name="title_activity_multi_select_lazy_column">MultiSelectLazyColumn</string>
 </resources>

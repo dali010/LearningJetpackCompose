@@ -13,6 +13,20 @@
         android:theme="@style/Theme.JetpackCompose"
         tools:targetApi="31">
         <activity
+            android:name=".multiSelect.MultiSelectLazyColumn"
+            android:exported="true"
+            android:label="@string/title_activity_multi_select_lazy_column"
+            android:theme="@style/Theme.JetpackCompose">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".bottomNavWithBadges.BottomNavWithBadges"
             android:exported="true"
             android:label="@string/title_activity_bottom_nav_with_badges"
@@ -26,12 +40,6 @@
             android:exported="true"
             android:label="@string/title_activity_animated_splash_screen"
             android:theme="@style/Theme.JetpackCompose">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />

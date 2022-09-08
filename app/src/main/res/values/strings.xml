@@ -20,4 +20,6 @@
     <string name="title_activity_animated_splash_screen">AnimatedSplashScreen</string>
     <string name="title_activity_multi_select_lazy_column">MultiSelectLazyColumn</string>
     <string name="title_activity_permission_handling">PermissionHandling</string>
+    <string name="title_activity_compose_navigation">ComposeNavigation</string>
+    <string name="title_activity_compose_destination">ComposeDestination</string>
 </resources>

@@ -22,4 +22,5 @@
     <string name="title_activity_permission_handling">PermissionHandling</string>
     <string name="title_activity_compose_navigation">ComposeNavigation</string>
     <string name="title_activity_compose_destination">ComposeDestination</string>
+    <string name="title_activity_support_all_screen_size">SupportAllScreenSize</string>
 </resources>

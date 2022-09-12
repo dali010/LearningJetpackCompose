@@ -24,4 +24,5 @@
     <string name="title_activity_compose_destination">ComposeDestination</string>
     <string name="title_activity_support_all_screen_size">SupportAllScreenSize</string>
     <string name="title_activity_pagination">Pagination</string>
+    <string name="title_activity_bottom_sheet">BottomSheet</string>
 </resources>
